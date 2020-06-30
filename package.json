@@ -1,0 +1,16 @@
+{
+	"name": "zip_connection",
+	"version": "1.0.0",
+	"description": "An app to promote locally sourced food.",
+	"main": "printMessages.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"author": "MG",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^26.0.1"
+	},
+	"dependencies": {},
+	"keywords": []
+}
